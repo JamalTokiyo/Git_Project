@@ -1,0 +1,68 @@
+
+
+var movie =[{
+
+	"Id": "1111",
+	"MovieName": "A star is a born",
+	"Description": "fdfa",
+	"moviePoster": "2018"
+	
+}
+,
+{  
+"Id": "1112",
+	"MovieName": "Halloween",
+	"Description": "Halloween",
+	"moviePoster": "2019"
+}
+,
+{"Id": "1113",
+	"MovieName": "firstman",
+	"Description": "firstman",
+	"moviePoster": "2018"
+}
+,
+{
+	"Id": "1114",
+	"MovieName": "Bad time",
+	"Description": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
+	"moviePoster": "2018"
+}
+,
+{
+	"Id": "1115",
+	"MovieName": "Mandy",
+	"Description": "mandy",
+	"moviePoster": "2018"
+},
+{
+	"Id": "1116",
+	"MovieName": "crzy rich Asians",
+	"Description": "rich asians",
+	"moviePoster": "2018"
+},
+{
+	"Id": "1117",
+	"MovieName": "A star is a born",
+	"Description": "fdfa",
+	"moviePoster": "2018"
+},
+{
+	"Id": "1118",
+	"MovieName": "A star is a born",
+	"Description": "fdfa",
+	"moviePoster": "2018"
+},
+{
+	"Id": "1119",
+	"MovieName": "A star is a born",
+	"Description": "fdfa",
+	"moviePoster": "2018"
+},
+{
+	"Id": "1110",
+	"MovieName": "A star is a born",
+	"Description": "fdfa",
+	"moviePoster": "2018"
+}
+]
