@@ -2,67 +2,76 @@
 
 var movie =[{
 
-	"Id": "1111",
-	"MovieName": "A star is a born",
-	"Description": "fdfa",
-	"moviePoster": "2018"
+	
+	"title": "A star is a born",
+	"Des": "is a 2018 American musical dram",
+	
+	"image": "img/Born.jpg"
 	
 }
 ,
 {  
-"Id": "1112",
-	"MovieName": "Halloween",
-	"Description": "Halloween",
-	"moviePoster": "2019"
-}
-,
-{"Id": "1113",
-	"MovieName": "firstman",
-	"Description": "firstman",
-	"moviePoster": "2018"
+
+	"title": "Halloween",
+	"Des": "Unter Halloween versteht man die Festlichkeit in der Nacht vor Allerheiligen, vom 31. Oktober auf den 1. November.",
+	"moviePoster": "2019",
+	"image": "img/Halloween.jpg"
 }
 ,
 {
-	"Id": "1114",
-	"MovieName": "Bad time",
-	"Description": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
-	"moviePoster": "2018"
+	"title": "firstman",
+	"Des": "First Man had its world premiere at the Venice Film Festival on August 29, 2018",
+	
+	"image": "img/firstman.jpg"
 }
 ,
 {
-	"Id": "1115",
-	"MovieName": "Mandy",
-	"Description": "mandy",
-	"moviePoster": "2018"
+	
+	"title": "Angel",
+	"Des": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
+	
+	"image": "img/angel.jpg"
 },
 {
-	"Id": "1116",
-	"MovieName": "crzy rich Asians",
-	"Description": "rich asians",
-	"moviePoster": "2018"
+	
+	"title": "equalizer",
+	"Des": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
+	
+	"image": "img/equalizer.jpg"
 },
 {
-	"Id": "1117",
-	"MovieName": "A star is a born",
-	"Description": "fdfa",
-	"moviePoster": "2018"
+	
+	"title": "Hard Powder",
+	"Des": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
+	
+	"image": "img/hardpowder.jpg"
 },
 {
-	"Id": "1118",
-	"MovieName": "A star is a born",
-	"Description": "fdfa",
-	"moviePoster": "2018"
+	
+	"title": "Predator",
+	"Des": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
+	
+	"image": "img/Predator.jpg"
 },
 {
-	"Id": "1119",
-	"MovieName": "A star is a born",
-	"Description": "fdfa",
-	"moviePoster": "2018"
-},
-{
-	"Id": "1110",
-	"MovieName": "A star is a born",
-	"Description": "fdfa",
-	"moviePoster": "2018"
+	
+	"title": "Bad time",
+	"Des": "Bad Times at the El Royale is a 2018 American neo-noir thriller film written",
+	
+	"image": "img/badtime.jpg"
 }
-]
+,
+{
+	
+	"title": "Mandy",
+	"Des": "Shadow Mountains, 1983: Der friedliebende Einzelgänger Red Miller (Nicolas Cage) kocht vor Wut und Trauer",
+	
+	"image": "img/mandy.jpeg"
+},
+{
+	
+	"title": "crzy rich Asians",
+	"Des": "is a 2018 American romantic comedy-drama film directed",
+	
+	"image": "img/crazy.png"
+}]
